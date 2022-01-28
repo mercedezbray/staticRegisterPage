@@ -1,5 +1,5 @@
 body {
-    background-color: #76c8ff;
+    background-color: mediumseagreen;
     margin: 0;
     font-family: sans-serif;
     display: flex;
@@ -22,7 +22,7 @@ header {
 
 header a {
     color: white;
-    background-color: #13a0ff;
+    background-color: mediumseagreen;
     border: solid 1px gray;
     border-radius: 3px;
     padding: .25rem .5rem;
@@ -34,14 +34,14 @@ header a {
 }
 
 header a:hover, form button:hover {
-    background-color: #1084d1;
+    background-color:mediumseagreen;
     cursor: pointer;
 }
 
 .container {
     margin: auto;
     padding: 1.5rem;
-    background-color: white;
+    background-color: wheat;
     border: 5px;
     border-radius: 5px;
     box-shadow: 
@@ -71,7 +71,7 @@ form input, form button {
 
 form button {
     color: white;
-    background-color: #13a0ff;
+    background-color: mediumseagreen;
 }
 
 footer {
